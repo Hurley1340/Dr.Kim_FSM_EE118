@@ -53,7 +53,6 @@ https://github.com/user-attachments/assets/https://github.com/user-attachments/a
 
 https://github.com/user-attachments/assets/https://github.com/user-attachments/assets/197b13b4-ec88-42de-be87-fb7fc8f3cbd0
 
-
 ## Components
 
 - D flip-flops (`74LS74`)
