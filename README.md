@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/https://github.com/user-attachments/a
 
 ### Manual Clock Operation
 
-https://github.com/user-attachments/assets/https://github.com/user-attachments/assets/a564125d-05b1-44eb-9ffe-0ff19070ab83
+https://github.com/user-attachments/assets/https://github.com/user-attachments/assets/197b13b4-ec88-42de-be87-fb7fc8f3cbd0
 
 
 ## Components
