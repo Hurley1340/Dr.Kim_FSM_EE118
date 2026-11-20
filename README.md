@@ -46,10 +46,13 @@ The completed 3-bit up/down FSM was assembled and tested
 using discrete 7400-series logic ICs.
 
 ### Circuit Operation
-[oops]
+
+https://github.com/user-attachments/assets/VIDEO-ID-1
 
 ### Manual Clock Operation
-[https://github.com/Hurley1340/Dr.Kim_FSM_EE118/issues/2#issue-6521037722]
+
+https://github.com/user-attachments/assets/VIDEO-ID-2
+
 
 ## Components
 
