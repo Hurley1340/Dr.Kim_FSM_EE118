@@ -40,6 +40,17 @@ For a detailed explanation of the individual circuit implementations, see the [D
   <img src="Images/Overall_Schematic_Kim_FSM.png" alt="3-Bit Mod-7 FSM Schematic" width="500">
 </a>
 
+## Hardware Demonstration
+
+The completed 3-bit up/down FSM was assembled and tested
+using discrete 7400-series logic ICs.
+
+### Circuit Operation
+[oops]
+
+### Manual Clock Operation
+[https://github.com/Hurley1340/Dr.Kim_FSM_EE118/issues/2#issue-6521037722]
+
 ## Components
 
 - D flip-flops (`74LS74`)
