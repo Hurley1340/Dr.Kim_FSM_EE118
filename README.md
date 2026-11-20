@@ -47,7 +47,7 @@ using discrete 7400-series logic ICs.
 
 ### Circuit Operation
 
-https://github.com/user-attachments/assets/VIDEO-ID-1
+https://github.com/user-attachments/assets/[(https://github.com/user-attachments/assets/992e3848-13ee-44e4-a484-64ddc755f1b5)]
 
 ### Manual Clock Operation
 
