@@ -34,7 +34,9 @@ A **74LS157 quad 2-to-1 multiplexer** selects between the present-state outputs 
 
 ## Complete Circuit Schematic
 
-[![FSM Schematic](Images/Overall_Schematic_Kim_FSM.png)](Images/Overall_Schematic_Kim_FSM.png)
+<a href="Images/Overall_Schematic_Kim_FSM.png">
+  <img src="Images/Overall_Schematic_Kim_FSM.png" alt="3-Bit Mod-7 FSM Schematic" width="500">
+</a>
 
 ## Components
 
