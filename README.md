@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/[(https://github.com/user-attachments
 
 ### Manual Clock Operation
 
-https://github.com/user-attachments/assets/VIDEO-ID-2
+https://github.com/user-attachments/assets/https://github.com/user-attachments/assets/a564125d-05b1-44eb-9ffe-0ff19070ab83
 
 
 ## Components
