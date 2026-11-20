@@ -32,6 +32,10 @@ A **74LS157 quad 2-to-1 multiplexer** selects between the present-state outputs 
 **`u = 1`** → Count Up, **`u = 0`** → Count Down <br>
 **`EN = 1`** → Count, **`EN = 0`** → Hold
 
+## Complete Circuit Schematic
+
+[![3-Bit Mod-7 Up/Down FSM Schematic](images/Overall_Schematic_Kim_FSM.png)](images/Overall_Schematic_Kim_FSM.png)
+
 ## Components
 
 - D flip-flops (`74LS74`)
